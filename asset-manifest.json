@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-keeper-app/static/js/main.3a13c15a.js",
+    "index.html": "/react-keeper-app/index.html",
+    "main.3a13c15a.js.map": "/react-keeper-app/static/js/main.3a13c15a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3a13c15a.js"
+  ]
+}
